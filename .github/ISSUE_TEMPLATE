@@ -1,1 +1,11 @@
-
+**As a** [User]  
+**I need** [a buy option]  
+**So that** [i can complete a purchase]  
+      
+### Details and Assumptions
+    * [Help completeing a purchase]      
+### Acceptance Criteria     
+    gherkin 
+    Given [user request]
+    When [write a program to include buy option]
+    Then [then user can complete purchase]
